@@ -8,10 +8,7 @@ I'm a research student focusing on the **semantics of RISC-V assembly** and **ax
 
 ### 🌍 Locations
 I've lived in:
-- Qingdao
-- Jinan
-- Gothenburg
-- Amsterdam
+- Jinan, Qingdao, Beijing, Gothenburg, Amsterdam
 
 ### 🔬 Research Interests
 - RISC-V Assembly Semantics
