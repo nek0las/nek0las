@@ -3,7 +3,7 @@
 I'm a research student focusing on the **semantics of RISC-V assembly** and **axiomatic memory models**.
 
 ### 🎓 Education
-- Vrije University Amsterdam
+- Vrije Universiteit Amsterdam
 - Qingdao University
 
 ### 🌍 Locations
