@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**nek0las/nek0las** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a research student focusing on the **semantics of RISC-V assembly** and **axiomatic memory models**.
 
-Here are some ideas to get you started:
+### 🎓 Education
+- Vrije Universiteit Amsterdam
+- Qingdao University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Locations
+I've lived in:
+- Qingdao
+- Jinan
+- Gothenburg
+- Amsterdam
+
+### 🔬 Research Interests
+- RISC-V Assembly Semantics
+- Axiomatic Memory Models
+- Formal Methods
+- Computer Architecture
