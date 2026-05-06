@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nek0las&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Researcher%20%7C%20Systems%20Enthusiast%20%7C%20Formal%20Methods&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nek0las&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Researcher%20%7C%20Systems%20Enthusiast%20%7C%20Formal%20Methods&descAlignY=58&descSize=18" width="100%" alt="Profile header banner – nek0las | Researcher | Systems Enthusiast | Formal Methods"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B9CF7&center=true&vCenter=true&width=600&lines=RISC-V+%26+Assembly+Semantics+researcher;Formal+Methods+%26+Memory+Models;MSc+student+%40+VU+%26+UvA+Amsterdam;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -22,6 +22,7 @@
 <div align="center">
 
 `🏙️ Jinan` → `🌊 Qingdao` → `🏛️ Beijing` → `⚓ Gothenburg` → `🌷 Amsterdam`
+<!-- Cities where nek0las has lived: Jinan, Qingdao, Beijing, Gothenburg, Amsterdam -->
 
 </div>
 
@@ -62,8 +63,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nek0las&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek0las&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nek0las&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub profile statistics for nek0las"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek0las&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages for nek0las"/>
 
 </div>
 
@@ -71,6 +72,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 
 </div>
