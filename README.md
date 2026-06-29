@@ -8,8 +8,7 @@
 I've lived in:
 - Jinan, Qingdao, Beijing, Gothenburg, Amsterdam
 
-### 🔬 Research Interests
-- RISC-V Assembly Semantics
-- Axiomatic Memory Models
-- Formal Methods
-- Computer Architecture
+### 🔬 Interests
+- Literature
+- Music
+- Video Games
