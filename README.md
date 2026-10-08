@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm an idiot.
+I'm <<The Idiot>>.
